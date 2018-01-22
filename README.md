@@ -34,3 +34,5 @@ Possible arguments:
 Method for training LM on Penn Tree Bank (PTB) used from:
 
 https://github.com/pytorch/examples/tree/master/word_language_model
+
+Made for project on NLM with @FredieH and @Lukx19
