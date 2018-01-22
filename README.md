@@ -11,6 +11,7 @@ For training S-LSTM clone this repository and run:
 python train_RAN.py
 ```
 This will train a S-LSTM with 2 hidden layers, embedding size of 650 and hidden layer size of 200.
+It will give a test set perplexity of 77.17 after around 10 epochs.
 
 Possible arguments:
 
