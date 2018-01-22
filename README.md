@@ -19,7 +19,7 @@ Possible arguments:
 - --log: type=int, default=200, metavar='N', help='number of iterations after which to log'
 - --save: type=str,  default='model.pt', help='path to save the final model'
 - --load: action='store_true', help='path to load model to continue training from'
-- --data: type=str, default='../../data/penn/', help='data directory'
+- --data: type=str, default='../data/penn/', help='data directory'
 - --embed_size: type=int, default=200, help='size of word embeddings'
 - --nhid: type=int, default=200, help='number of hidden units per layer'
 - --nlayers: type=int, default=2, help='number of layers'
