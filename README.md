@@ -1,7 +1,7 @@
 # Simplified LSTM
 Simplified LSTM recurrent neural network with adjustable number of layers
 
-Implementation of Simplfied LSTM or Recurrent Additive Network (RAN) by Kenton Lee, Omer Levy, and Luke Zettlemoyer:
+Implementation of Simplified LSTM or Recurrent Additive Network (RAN) by Kenton Lee, Omer Levy, and Luke Zettlemoyer:
 
 http://www.kentonl.com/pub/llz.2017.pdf
 
