@@ -13,6 +13,7 @@ python train_RAN.py
 This will train a S-LSTM with 2 hidden layers, embedding size of 650 and hidden layer size of 200.
 
 Possible arguments:
+
 --seed: type=int, default=1111, help=set seed
 --cuda: action='store_true', help='use GPU to compute'
 --log: type=int, default=200, metavar='N', help='number of iterations after which to log
