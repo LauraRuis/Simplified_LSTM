@@ -14,8 +14,8 @@ This will train a S-LSTM with 2 hidden layers, embedding size of 650 and hidden 
 
 Possible arguments:
 
---seed: type=int, default=1111, help=set seed
---cuda: action='store_true', help='use GPU to compute'
+- --seed: type=int, default=1111, help=set seed
+- --cuda: action='store_true', help='use GPU to compute'
 --log: type=int, default=200, metavar='N', help='number of iterations after which to log
 --save: type=str,  default='model.pt', help='path to save the final model
 --load: action='store_true', help='path to load model to continue training from
