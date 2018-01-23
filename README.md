@@ -8,11 +8,11 @@ http://www.kentonl.com/pub/llz.2017.pdf
 For training S-LSTM clone this repository and run:
 
 ```
-python train_RAN.py
+python train_RAN.py --tying
 ```
-This will train a S-LSTM with 2 hidden layers, embedding size of 650 and hidden layer size of 200.
+This will train a S-LSTM with 2 hidden layers, embedding size of 650 and hidden layer size of 650 (nhid and embed size need to be the same for tying).
 
-**Test set perplexity  on the PTB: 77.17 (after around 10 epochs)**
+**Test set perplexity  on the PTB: 77.17 (after around 10 epochs)
 
 Possible arguments:
 
