@@ -40,7 +40,6 @@ BSZ = args.bsz
 EVAL_BSZ = 10
 LR = args.lr
 CLIP = args.clip
-LAYERS = 2
 ########################################################################################################################
 PRINT_EVERY = args.log
 CUDA = args.cuda
